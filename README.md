@@ -12,11 +12,11 @@
 [![issues](https://badgen.net/github/open-issues/doocs/advanced-java)](https://github.com/doocs/advanced-java/issues)
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 
-本项目大部分内容来自中华石杉，版权归作者所有，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)、[海量数据处理](#海量数据处理)等领域知识。我([@yanglbme](https://github.com/yanglbme))对这部分知识做了一个系统的整理，方便学习查阅。配合《[大型网站技术架构](https://github.com/doocs/technical-books#architecture)——李智慧》、《[Redis 设计与实现](https://github.com/doocs/technical-books#database)——[黄健宏](https://github.com/huangz1990)》、《[Redis 深度历险](https://github.com/doocs/technical-books#database)——钱文品》、《[亿级流量网站架构核心技术](https://github.com/doocs/technical-books#architecture)——张开涛》食用，[效果更佳](https://doocs.github.io/advanced-java/#/docs/extra-page/offer)。
+本项目大部分内容来自中华石杉，版权归作者所有，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)、[海量数据处理](#海量数据处理)等领域知识。我([@yanglbme](https://github.com/yanglbme))对这部分知识做了一个系统的整理，方便学习查阅。配合《[大型网站技术架构](https://github.com/doocs/technical-books#architecture)——李智慧》、《[Redis 设计与实现](https://github.com/doocs/technical-books#database)——[黄健宏](https://github.com/huangz1990)》、《[Redis 深度历险](https://github.com/doocs/technical-books#database)——钱文品》、《[亿级流量网站架构核心技术](https://github.com/doocs/technical-books#architecture)——张开涛》食用，[效果更佳](https://doocs.github.io/advanced-java/#/docs/extra-page/offer)。本项目将不断更新更多优质内容，欢迎各位开发者朋友们保持关注。
 
-学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎各位开发者朋友到 [Issues 讨论区](https://github.com/doocs/advanced-java/issues)分享自己的一些想法和实践经验，参与或加入开源组织请看[这里](https://github.com/doocs/advanced-java/issues/61)，你也访问 [GitHub Page](https://doocs.github.io)  详细了解一下 Doocs。
+学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎各位开发者朋友到 [Issues 讨论区](https://github.com/doocs/advanced-java/issues)分享自己的一些想法和实践经验，参与或加入 Doocs 开源社区请看[这里](https://github.com/doocs/advanced-java/issues/61)，你也访问 [GitHub Page](https://doocs.github.io)  详细了解一下 Doocs。
 
-[另外，我还将在这里更新内容，感兴趣的朋友可以进来看看。](/docs/extra-page/subscriptions-for-doocs.md)
+[另外，我还将在这里更新内容，感兴趣的朋友可以进来看看](/docs/extra-page/subscriptions-for-doocs.md)，深入源码学习请关注[“源码猎人”项目](https://github.com/doocs/source-code-hunter)，LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解，尽在 [leetcode 项目](https://github.com/doocs/leetcode)！
 
 ## 高并发架构
 ### [消息队列](./docs/high-concurrency/mq-interview.md)
@@ -153,7 +153,7 @@
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 公众号
-GitHub 技术社区 Doocs 旗下唯一公众号“Doocs 开源社区”，欢迎关注，专注于分享有价值的文章；当然，也可以加我个人微信（备注：GitHub）。
+GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**Doocs开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
 
 <table>
     <tr>
